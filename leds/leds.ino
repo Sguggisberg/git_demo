@@ -14,7 +14,7 @@ if (Serial.available() > 0) {
     digitalWrite(2, HIGH);
     break;
     
-    case 'b':
+    case 'q':
     digitalWrite(3, HIGH);
     break;
     
