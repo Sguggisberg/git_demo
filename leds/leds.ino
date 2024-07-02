@@ -30,7 +30,7 @@ if (Serial.available() > 0) {
     digitalWrite(5, HIGH);
     break;
 
-    case 'e':
+    case 'x':
     digitalWrite(6, HIGH);
     break;
     default: 
