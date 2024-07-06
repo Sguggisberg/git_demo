@@ -14,11 +14,11 @@ if (Serial.available() > 0) {
     digitalWrite(2, HIGH);
     break;
     
-    case 'b':
+    case 'v':
     digitalWrite(3, HIGH);
     break;
   
-    case 'p':
+    case 'l':
     digitalWrite(4, HIGH);
     break;
     
