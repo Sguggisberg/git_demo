@@ -10,7 +10,7 @@ void loop() {
 if (Serial.available() > 0) {
   uint8_t inByte = Serial.read();
   switch (inByte) {
-    case 'x':
+    case 'a':
     digitalWrite(2, HIGH);
     break;
     
