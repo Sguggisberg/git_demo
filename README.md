@@ -1,6 +1,6 @@
 ﻿# git_demo
 
-## This is a demo project
+## This is a project for introduction git and make some first steps.
 
 ## Clonen
 
